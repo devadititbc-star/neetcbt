@@ -1,0 +1,6 @@
+{
+  "name": "NEETcbt Platform",
+  "description": "Official NTA CBT Test Series Platform (neetcbt.com) featuring Sunday Major Tests (Levels 1 to 4), 10-Day Cyclic Interval Tests, Target Batch Custom Test Generator (15m, 30m, 1hr), 45 Questions Per Subject, Clean Watermark-Free NCERT Books, 24/7 AI Support Chatbot, and Deep AIR Performance Analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
